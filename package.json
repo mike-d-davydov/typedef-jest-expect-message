@@ -1,0 +1,34 @@
+{
+  "name": "@types/expect-message",
+  "version": "1.0.0",
+  "description": "Typedef for jest-expect-message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts:compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-d-davydov/typedef-jest-expect-message.git"
+  },
+  "keywords": [
+    "jest-expect-message",
+    "jest",
+    "typescript"
+  ],
+  "author": "Mike Davydov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-d-davydov/typedef-jest-expect-message/issues"
+  },
+  "homepage": "https://github.com/mike-d-davydov/typedef-jest-expect-message#readme",
+  "dependencies": {
+    "jest-expect-message": "^1.0.2",
+    "typescript": "^3.4.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.7.1",
+    "ts-jest": "^24.0.2"
+  }
+}
